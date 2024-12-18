@@ -3,7 +3,7 @@
 - 🪷 Creator @ Xymatic Labs - based in Oakland, CA
 - 🍄 I’m interested in real-time VFX, ML/DL, backend dev, and audio reactive FX
 - 🌱 I’m currently learning GLSL, NvidiaFlex, and Ruby!
-- 🐚 You can reach me on Github or LinkedIn! <!---[LinkedIn](https://linkedin.com/in/carlymgordon)-->
+- 🐚 You can reach me here on Github! <!--- or [LinkedIn](https://linkedin.com/in/carlymgordon)!-->
 - 🐒 Pronouns: she/her/hers
 
 <!--

@@ -1,7 +1,7 @@
 - 🌸 Hello, my name is Carly :)
 - 🥥 I am a creative technologist consultant from Vallejo, CA
 - 🪷 Creator @ Xymatic Labs - based in Oakland, CA
-- 🍄 I’m interested in real-time VFX, backend dev, ML/DL, and audio reactive FX
+- 🍄 I’m interested in real-time VFX, ML/DL, backend dev, and audio reactive FX
 - 🌱 I’m currently learning GLSL, NvidiaFlex, and Ruby!
 - 🐚 Pronouns: she/her/hers
 

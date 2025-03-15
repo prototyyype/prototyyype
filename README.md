@@ -3,8 +3,7 @@
 - 🪷 Creator @ Xymatic Labs - based in Oakland, CA
 - 🍄 I’m interested in real-time VFX, backend dev, ML/DL, and audio reactive FX
 - 🌱 I’m currently learning GLSL, NvidiaFlex, and Ruby!
-- 🐚 You can reach me on Github or [LinkedIn](https://linkedin.com/in/carlymgordon)!
-- 🐒 Pronouns: she/her/hers
+- 🐚 Pronouns: she/her/hers
 
 <!--
 **prototyyype/prototyyype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

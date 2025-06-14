@@ -5,6 +5,18 @@
 - 🌱 I’m currently learning GLSL, NvidiaFlex, and Ruby!
 - 🐚 Pronouns: she/her/hers
 
+## 🪴 Current Projects
+
+### ✨ Glitter Blocks ✨
+
+A sparkly Barbie‑inspired Tetris‑like game 
+
+![Glitter Blocks Demo](https://raw.githubusercontent.com/prototyyype/glitter-blocks/main/.github/assets/barbie-tetris.gif)
+
+[View the project ➜](https://github.com/prototyyype/glitter-blocks)
+
+
+
 <!--
 **prototyyype/prototyyype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

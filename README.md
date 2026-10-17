@@ -1,6 +1,6 @@
 - 🌸 Hello, my name is Carly :)
 - 🥥 I am a creative technologist consultant from the Bay Area
-- 🪷 Creator @ Xymatic Labs - an art and educational consultancy
+- 🪷 Creator @ Xymatic Studios - an art and educational consultancy
 - 🍄 I’m interested in real-time VFX, ML/DL, backend dev, and audio reactive FX
 - 🌱 I’m currently learning GLSL, NvidiaFlex, and Ruby!
 - 🐚 Pronouns: she/her/hers
